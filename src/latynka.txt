@@ -1,0 +1,46 @@
+Кириллица Latyṇ
+аА		aA
+бБ		bB
+вВ		vV
+гГ		hH
+ґҐ		gG
+дД		dD
+эЭ		eE
+єЄ		ϵЄ
+жЖ		żŻ
+зЗ		zZ
+иЫ		yY
+іІ		iI
+їЇ		ïÏ
+йЙ		jJ
+кК		kK
+лЛ		lL
+мМ		mM
+нН		nN
+оО		oO
+пП		pP
+рР		rR
+сЦ		sS
+тТ		tT
+уУ		uU
+фФ		fF
+хХ		xX
+цЦ		cC
+чЧ		ċĊ
+шШ		ṡṠ
+щЩ		s̈S̈
+юЮ		üÜ
+яЯ		ja
+ьЬ		̣
+
+
+Zrobyv rozkladku klaviatury za dopomogoü Microsoft Keyboard Layout Creator 1.4 iz staroï fonetyċnoï klaviatury.
+Zavantażity możno tut - https://github.com/dgo42/latynka/releases
+Otut duże korotkyj opys - https://github.com/dgo42/latynka
+"Niċ̣ jaka misjaċna, zorjana jasnaja
+Vydno choċ̣ golky zbyra"
+Є i m'jakyj znak: niċ̣, kiḷce, poliṣkyj, koly-nebuḍ
+Doluċajteṣ do dyskusiï
+
+
+Є odne zauvażennja. Litery s̈ naspravdi ne isnuϵ. Ce zvyċajna litera "S" iz okremym dyakretyċnym znakom "  ̈  "  Ta sprava v tomu, s̈o ce ne pracüje v usich programach... Takoż m'jakyj znak ''  ̣" ne v usich programach pracüϵ...
